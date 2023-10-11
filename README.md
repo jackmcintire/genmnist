@@ -25,9 +25,10 @@ model = Model()
 model.train()
 ```
 
-3. Generate images for a range of digits:
+3. Generate images for a list of digits or one digit:
 ```python
 model.generate(list(range(10)))
+model.generate(4)
 ```
 
 This will visualize a grid of generated images corresponding to the digits 0-9.
