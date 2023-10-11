@@ -33,6 +33,6 @@ model.generate(4)
 
 ## Visualization
 
-Generated images are visualized in a grid. Definitely room for improvement but not back for a ~10s training loop.
+Generated images are visualized in a grid. Definitely room for improvement but not back for a ~2s training loop.
 
 ![Alt text](./assets/output.png)
