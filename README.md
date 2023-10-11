@@ -31,8 +31,6 @@ model.generate(list(range(10)))
 model.generate(4)
 ```
 
-This will visualize a grid of generated images corresponding to the digits 0-9.
-
 ## Visualization
 
 Generated images are visualized in a grid. Definitely room for improvement but not back for a ~10s training loop.
